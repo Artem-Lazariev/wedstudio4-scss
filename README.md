@@ -1,1 +1,1 @@
-# HW-WebStudio
+# wedstudio-scss
